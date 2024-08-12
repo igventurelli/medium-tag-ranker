@@ -19,5 +19,5 @@ With Tag Ranker you can get these tags usages as:
 ### Running locally
 It's pretty simple:
 
-    > pip3 install -r requirements
+    > pip3 install -r requirements.txt
     > python3 app.py <tags-separated-by-space>
